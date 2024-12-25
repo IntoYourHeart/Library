@@ -76,9 +76,3 @@ library/
 - CMake 3.10 或更高版本（可选，取决于构建方式）。
 - `nlohmann::json` 库。
 - `MD5` 加密库。
-
-### **编译与运行**
-
-1. 克隆该项目：
-   ```bash
-   git clone https://github.com/intoyourheart/library.git
